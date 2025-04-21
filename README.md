@@ -52,3 +52,8 @@ Watch the video course here (**FREE**): [UI Testing for Beginners](https://codin
 2. Clicking list items
 3. Navigating to different fragments when list item is clicked
 4. Back navigation testing
+
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
